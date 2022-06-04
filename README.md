@@ -30,6 +30,13 @@ My name is **Karthikeyan** and I am a **Passionate Fullstack(MERN) Developer**
 
 | <a href="https://github.com/karthikeyangeo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikeyangeo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="karthikeyan's github stats" /></a> | <a href="https://github.com/karthikeyangeo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyangeo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<!-- Profile view -->
+<!-- 
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthikeyangeo&&style=flat-square" align="center" />
+  </div>  
+ -->
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
