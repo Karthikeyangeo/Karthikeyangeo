@@ -7,7 +7,9 @@
 <!-- Adding Github stats -->
 
 ![Karthikeyan' GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikeyangeo&theme=synthwave&show_icons=true&count_private=true "Karthikeyan' GutHub Stats")
+<!-- Adding language card -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyangeo&layout=compact)](https://github.com/Karthikeyangeo/github-readme-stats)
 <!-- Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
