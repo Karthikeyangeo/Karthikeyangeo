@@ -8,7 +8,7 @@
 
 ## Let me introduce myself
 
-My name is Karthikeyan and I am a Passionate Fullstack(MERN) Developer
+My name is **Karthikeyan** and I am a **Passionate Fullstack(MERN) Developer**
 <br/>
 <!--
 **Karthikeyangeo/Karthikeyangeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
