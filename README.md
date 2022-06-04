@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="assets/GitHubBanner.png" alt="horizon hero banner"/>
+<img src="assets/SpaceMan.png" alt="horizon hero banner"/>
 <!--
 **Karthikeyangeo/Karthikeyangeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
