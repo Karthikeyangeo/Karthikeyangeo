@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- Adding Image -->
-<img src="assets/greetings.gif" alt="Greetings" >
+<img src="assets/greetings.gif" alt="Greetings" width="600">
 <img src="assets/SpaceMan.png" alt="horizon hero banner"/>
 <!--
 **Karthikeyangeo/Karthikeyangeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
